@@ -1,0 +1,11 @@
+cord_uid,title,abstract,journal,publish_time,year,abstract_word_count
+abc001,"COVID-19 and Public Health","Study of COVID-19 transmission and public health measures.","Nature","2020-03-15",2020,9
+abc002,"Vaccine Development for SARS-CoV-2","The development of vaccines against SARS-CoV-2 is crucial.","Science","2021-06-10",2021,11
+abc003,"Machine Learning for COVID-19 Diagnosis","Using machine learning to detect COVID-19 from X-ray images.","IEEE Transactions","2020-08-20",2020,11
+abc004,"Impact of Lockdowns on Mental Health","Exploring the mental health consequences of COVID-19 lockdowns.","The Lancet Psychiatry","2020-05-12",2020,10
+abc005,"Remdesivir Clinical Trials","Clinical trial results for Remdesivir treatment in COVID-19 patients.","New England Journal of Medicine","2020-07-01",2020,9
+abc006,"COVID-19 in Children","Investigation of COVID-19 symptoms in pediatric populations.","Pediatrics","2021-01-22",2021,8
+abc007,"SARS-CoV-2 Variants and Vaccines","Study of emerging SARS-CoV-2 variants and vaccine efficacy.","Nature","2021-03-15",2021,9
+abc008,"Telemedicine Adoption During Pandemic","Evaluation of telemedicine services during COVID-19.","Journal of Medical Internet Research","2020-11-30",2020,8
+abc009,"Airborne Transmission of COVID-19","Evidence supporting airborne transmission of SARS-CoV-2.","Science","2020-06-05",2020,8
+abc010,"COVID-19 Therapeutics Review","Review of existing and potential therapeutics for COVID-19.","The Lancet","2020-04-10",2020,8
